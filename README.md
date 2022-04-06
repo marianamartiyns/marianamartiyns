@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=blue" alt="Profile views" /> </p>
 
-- ✨ Graduanda de Ciência de dados e Inteligência Artificial;
-- ✨ Desenvolvedora júnior;
-- ✨ Estudo e pretendo trabalhar com programação e tecnologia!
+- Graduanda de Ciência de dados e Inteligência Artificial;
+- Desenvolvedora júnior;
+- Estudo e pretendo trabalhar com programação e tecnologia!
 <br><br>
 </div>
   
