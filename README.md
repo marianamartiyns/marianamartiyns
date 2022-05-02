@@ -1,4 +1,4 @@
-## Hi there! Meu nome é Mariana <3 
+## Olá! Meu nome é Mariana <3 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=blue" alt="Profile views" /> </p>
 
