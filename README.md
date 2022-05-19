@@ -4,7 +4,7 @@
 
 - Graduanda de Ciência de dados e Inteligência Artificial;
 - Desenvolvedora júnior;
-- Estudo Programação, Storytelling, Machine Learning, Visualização e Mineração de dados e muitas outras coisas.
+- Estudo Programação, Storytelling, Machine Learning, Visualização, Mineração de dados e muitas outras coisas.
 <br><br>
 </div>
   
