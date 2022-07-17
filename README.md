@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Mariana <3 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=blueviolet" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=ff69b4" alt="Profile views" /> </p>
 
 - Graduanda de Ciência de dados e Inteligência Artificial;
 - Desenvolvedora júnior;
@@ -41,4 +41,4 @@
   ⚙️ &nbsp;<b>GitHub Analytics<b> :
 
   <a href="https://github.com/marianamartiyns">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamartiyns&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamartiyns&layout=compact&langs_count=7&theme=blueviolet"/>
