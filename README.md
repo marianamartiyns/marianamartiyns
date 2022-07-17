@@ -23,23 +23,20 @@
  
 <br><br>      
 </div>
-  
-  ## 
-  
-<div align="center">
-  
- 📩 &nbsp; <b>Social Links<b> :
-  
-  <a href="https://instagram.com/marianamartiyns" target="_blank"><img height="40em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marianamatiyns@gmail.com"><img height="40em" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/profile-mariana-martins" target="_blank"><img height="40em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <i class="fa fa-instagram" aria-hidden="true"><a href="https://instagram.com/marianamartiyns" target="_blank"></i>
-<br><br> 
+
 <div align="center">
   
   ##
   
-  ⚙️ &nbsp;<b>GitHub Analytics<b> :
+  ⚙️GitHub Analytics<b> :
 
   <a href="https://github.com/marianamartiyns">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamartiyns&layout=compact&langs_count=7&theme=omni"/>
+    
+    
+ <div align="center">
+  <a href="https://instagram.com/marianamartiyns" target="_blank"><img height="70" width="70" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
+  <a href = "mailto:marianamatiyns@gmail.com"><img height="70" width="70" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/profile-mariana-martins" target="_blank"><img height="70" width="70" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a> 
+
+<br><br> 
