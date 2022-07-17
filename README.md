@@ -41,4 +41,4 @@
   ⚙️ &nbsp;<b>GitHub Analytics<b> :
 
   <a href="https://github.com/marianamartiyns">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamartiyns&layout=compact&langs_count=7&theme=blueviolet"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamartiyns&layout=compact&langs_count=7&theme=omni"/>
