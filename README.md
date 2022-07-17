@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Mariana <3 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=lilac" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianamartiyns&color=blueviolet" alt="Profile views" /> </p>
 
 - Graduanda de Ciência de dados e Inteligência Artificial;
 - Desenvolvedora júnior;
