@@ -7,8 +7,7 @@
   <a href="https://www.linkedin.com/in/profile-mariana-martins" target="_blank" rel="external" ><img height="40" width="40" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a> </p>
   
 
-- Graduanda de Ciência de dados e Inteligência Artificial;
-- Desenvolvedora júnior;
+- Aluna de Graduação em Ciências de Dados e Inteligência Artificial na Universidade Federal da Paraíba.
 <br>
 
 <div align="center">
