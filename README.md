@@ -9,7 +9,7 @@ import Desenvolvedor from 'marianamartiyns';
 class SobreMim extends Desenvolvedor {
   nome    = 'Mariana Martins';
   curso   = 'Ciência de Dados e Inteligência Artificial';
-  estudo  = 'Universidade Federal da Paraíba';
+  onde    = 'Universidade Federal da Paraíba';
   local   = 'João Pessoa';
 }
 
