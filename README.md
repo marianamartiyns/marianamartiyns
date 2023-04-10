@@ -7,14 +7,14 @@
 import Desenvolvedor from 'marianamartiyns';
 
 class SobreMim extends Desenvolvedor {
-  nome    = 'Mariana Martins';
-  curso   = 'Ciência de Dados e Inteligência Artificial';
-  onde    = 'Universidade Federal da Paraíba';
-  local   = 'João Pessoa';
+  nome = 'Mariana Martins';
+  curso = 'Ciência de Dados e Inteligência Artificial';
+  intituicao = 'Universidade Federal da Paraíba';
+  local = 'João Pessoa';
 }
 
 class Currently_Studying Desenvolvedor {
-  linguagens  = ['Python', 'C'];
+  linguagens = ['Python', 'C'];
   bibliotecas = ['Pandas', 'Numpy'];
   idiomas = ['English'];
 }
