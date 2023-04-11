@@ -20,8 +20,7 @@ class Currently_Studying Desenvolvedor {
 }
   
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML', 'CSS', 'javascript'];
-  idiomas = ['Français'];
+  linguagens  = ['HTML', 'CSS'];
 }
 ``` 
 
