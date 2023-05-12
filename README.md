@@ -1,4 +1,3 @@
-  ### Oie Devs 👋
 <p align="left"> <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=ff69b4" alt="Profile views"/>
 
  ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim:
