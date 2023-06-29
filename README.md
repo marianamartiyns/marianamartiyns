@@ -1,21 +1,21 @@
 <p align="left"> <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=ff69b4" alt="Profile views"/>
 
- ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim:
+ ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
   
   ```js
 import Desenvolvedor from 'marianamartiyns';
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Mariana Martins';
-  curso = 'Ciência de Dados e Inteligência Artificial';
-  intituicao = 'Universidade Federal da Paraíba';
+class AboutMe extends Developer {
+  name = 'Mariana Martins';
+  undergraduate = 'Ciência de Dados e Inteligência Artificial';
+  institution = 'Universidade Federal da Paraíba';
   local = 'João Pessoa';
 }
 
 class Currently_Studying Desenvolvedor {
-  linguagens = ['Python', 'C'];
-  bibliotecas = ['Pandas', 'Numpy'];
-  idiomas = ['English'];
+  professional_skillset = ['Python', 'C'];
+  tools = ['Jupyter Notebbok', 'VsCode'];
+  languages = ['Portuguese','English'];
 }
   
 class Skills extends Desenvolvedor {
@@ -23,7 +23,7 @@ class Skills extends Desenvolvedor {
 }
 ``` 
 
-## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Estatísticas:
+## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats:
 <br>
 
 <div align="center">
