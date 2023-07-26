@@ -14,7 +14,7 @@ class AboutMe extends Developer {
 
 class Currently_Studying Desenvolvedor {
   professional_skillset = ['Python', 'C', 'C++'];
-  tools = ['Jupyter Notebbok', 'VsCode'];
+  tools = ['Jupyter Notebbok', 'VsCode', 'Code::blocks'];
   languages = ['Portuguese','English'];
 }
   
@@ -34,10 +34,7 @@ class Skills extends Desenvolvedor {
  <img align="center" height="150" width = "350" src="https://github-readme-stats.vercel.app/api?username=marianamartiyns&show_icons=true&theme=omni" alt="Mariana Martins github stats"/> </a>
 
 <br><br>
-  
-<img align="center" alt="Mari-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="Mari-HTML5" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Mari-CSS3" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   
 <img align="center" alt="Mari-C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center" alt="Mari-C" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Mari-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
