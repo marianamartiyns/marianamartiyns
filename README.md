@@ -3,7 +3,7 @@
  ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
   
   ```js
-import Desenvolvedor from 'marianamartiyns';
+import Developer from 'marianamartiyns';
 
 class AboutMe extends Developer {
   name = 'Mariana Martins';
@@ -12,14 +12,20 @@ class AboutMe extends Developer {
   local = 'João Pessoa';
 }
 
-class Currently_Studying Desenvolvedor {
+class Currently_Studying extends Developer {
   professional_skillset = ['Python', 'C', 'C++'];
   tools = ['Jupyter Notebbok', 'VsCode', 'Code::blocks'];
   languages = ['Portuguese','English'];
 }
   
-class Skills extends Desenvolvedor {
-  linguagens  = ['HTML', 'CSS'];
+class Skills extends Developer {
+  languages  = ['HTML', 'CSS'];
+  design = ['Figma', 'Canva'];
+}
+
+class Extension extends Developer{
+      PROJETO_AGEES = Scholarship;
+      PROJETO_enlaCES = Volunteer;
 }
 ``` 
 
