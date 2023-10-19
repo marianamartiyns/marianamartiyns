@@ -3,30 +3,46 @@
  ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
   
   ```js
-import Developer from 'marianamartiyns';
+
+// Importando a class Developer do módulo 'marianamartiyns'
+
+import { Developer } from 'marianamartiyns';
 
 class AboutMe extends Developer {
-  name = 'Mariana Martins';
-  undergraduate = 'Ciência de Dados e Inteligência Artificial';
-  institution = 'Universidade Federal da Paraíba';
-  local = 'João Pessoa';
+    constructor() {
+        super();
+        this.name = 'Mariana Martins';
+        this.undergraduate = 'Ciência de Dados e Inteligência Artificial';
+        this.institution = 'Universidade Federal da Paraíba';
+        this.local = 'João Pessoa';
+    }
 }
 
-class Currently_Studying extends Developer {
-  professional_skillset = ['Python', 'C', 'C++'];
-  tools = ['Jupyter Notebbok', 'VsCode', 'Code::blocks'];
-  languages = ['Portuguese','English'];
+class CurrentlyStudying extends Developer {
+    constructor() {
+        super();
+        this.professional_skillset = ['Python', 'C', 'C++'];
+        this.tools = ['Jupyter Notebook', 'VsCode', 'Code::Blocks'];
+        this.languages = ['Portuguese', 'English'];
+    }
 }
-  
+
 class Skills extends Developer {
-  languages  = ['HTML', 'CSS'];
-  design = ['Figma', 'Canva'];
+    constructor() {
+        super();
+        this.languages = ['HTML', 'CSS'];
+        this.design = ['Figma', 'Canva'];
+    }
 }
 
-class Extension extends Developer{
-      PROJETO_AGEES = Scholarship;
-      PROJETO_enlaCES = Volunteer;
+class Extension extends Developer {
+    constructor() {
+        super();
+        this.PROJETO_AGEES = 'Scholarship';
+        this.PROJETO_enlaCES = 'Volunteer';
+    }
 }
+
 ``` 
 
 ## <img width="32" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> GitHub Stats:
