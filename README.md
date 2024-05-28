@@ -40,6 +40,7 @@ class Extension extends Developer {
         super();
         this.PROJETO_AGEES = 'Scholarship';
         this.PROJETO_enlaCES = 'Volunteer';
+        this.LabTEVE = 'Pesquisadora no Laboratório de Tecnologias para o Ensino Virtual e Estatística';
     }
 }
 
@@ -59,6 +60,7 @@ class Extension extends Developer {
    
 <img align="center" alt="Mari-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Mari-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 <br><br>
