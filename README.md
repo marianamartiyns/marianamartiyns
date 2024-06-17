@@ -57,10 +57,12 @@ class Extension extends Developer {
  <img align="center" height="150" width = "350" src="https://github-readme-stats.vercel.app/api?username=marianamartiyns&show_icons=true&theme=omni" alt="Mariana Martins github stats"/> </a>
 
 <br><br>
-   
+
+<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity//unity-original.svg" />
 <img align="center" alt="Mari-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Mari-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 </div>
 
 <br><br>
