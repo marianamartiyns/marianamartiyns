@@ -22,7 +22,7 @@ class CurrentlyStudying extends Developer {
     constructor() {
         super();
         this.professional_skillset = ['Python', 'C', 'C++'];
-        this.tools = ['Jupyter Notebook', 'VsCode', 'Code::Blocks'];
+        this.tools = ['Jupyter Notebook', 'VsCode', 'Code::Blocks', 'Unity3D'];
         this.languages = ['Portuguese', 'English'];
     }
 }
