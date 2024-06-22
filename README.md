@@ -59,7 +59,7 @@ class Extension extends Developer {
 <br><br>
 
 <img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity//unity-original.svg" />
+<img align="center" alt="Mari-Unity" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity//unity-original.svg" />
 <img align="center" alt="Mari-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Mari-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
