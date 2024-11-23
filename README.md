@@ -58,10 +58,12 @@ class Extension extends Developer {
 
 <br><br>
 
-<img align="center" alt="Mari-Csharp" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Mari-Unity" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity//unity-original.svg" />
-<img align="center" alt="Mari-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="Mari-Jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" alt="Mari-Keras" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg"/>
+<img align="center" alt="Mari-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="Mari-Jupyter" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="center" alt="Mari-Matplot" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg"/>
+<img align="center" alt="Mari-Numpy" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg"/>
+<img align="center" alt="Mari-Pandas" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
 
 </div>
 
