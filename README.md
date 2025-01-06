@@ -70,7 +70,7 @@ class Extension extends Developer {
 <br><br>
 
 <div align="right">
-  <a  href="https://instagram.com/marianamartiyns" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a>
+  <!--<a href="https://instagram.com/marianamartiyns" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/instagram-circle.png" target="_blank"></a> --> 
   <a  href = "mailto:marianamatiyns@gmail.com" target="_blank" rel="external"><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/gmail.png" target="_blank" ></a> 
   <a  href="https://www.linkedin.com/in/profile-mariana-martins" target="_blank" rel="external" ><img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" target="_blank"></a>
 </div>
