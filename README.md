@@ -1,8 +1,10 @@
 <p align="left"> 
-  <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=ff69b4" alt="Profile views"/>
+  <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=C799FF" alt="Profile views"/>
 </p>
 
-## ⋆. 𐙚 ˚ About Me:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+
+## ⋆. :space_invader: 𐙚 ˚ About Me:
 
 ```py
 class AboutMe:
@@ -28,9 +30,8 @@ class CurrentlyStudying:
 ```
 
 > [!IMPORTANT]
-**۶ৎ Tools That I Like:**  
-> <div align="center"> <img align="center" alt="Jupyter" height="50" width="50" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"/> </div>
-
+**<img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" width="15"> Tools That I Like:**  
+> <div align="center"> <img align="center" alt="Jupyter" height="50" width="50" src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="VsCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="MySQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="Excel" height="50" width="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>&nbsp;&nbsp;&nbsp; <img align="center" alt="Power BI" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> </div>
 
 <div align="right">
   <a href="mailto:marianamartiyns@gmail.com" target="_blank" rel="external">
@@ -40,18 +41,3 @@ class CurrentlyStudying:
     <img height="30" width="30" src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/cd8986f5a2be2a96df9fabcc13a4129f32c79dbe/Icons-logos/linkedin-circle.png" />
   </a>
 </div>
-
-<!--
-<table align="center" >
-  <thead>
-    <tr>
-      <th>⋆.˚✮🎧 Now Playing ⋆</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://open.spotify.com/track/2jX5c5RFp0A9E1GDsvGxIa"><img src="https://i.ibb.co/P5JKygB/Captura-de-tela-2025-01-20-112919.png" width="420" height="87"></a></td>
-    </tr>
-  </tbody>
-</table>
--->
