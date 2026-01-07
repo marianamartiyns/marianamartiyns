@@ -1,45 +1,72 @@
 <p align="left"> 
-  <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=C799FF" alt="Profile views"/>
+  <img height="25" width="125" src="https://komarev.com/ghpvc/?username=marianamartiyns&color=F52590" alt="Profile views"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=C799FF&width=300&lines=Welcome+to+my+Github!+" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=F52590&width=300&lines=Welcome+to+my+Github!+" align="center">
 
-## ⋆. :space_invader: 𐙚 ˚ About Me:
+## ⋆. :bar_chart: 𐙚 ˚ About Me:
 
 ```py
 class AboutMe:
     def __init__(self):
         self.name = "Mariana Martins"
-        self.degree = "Data Science and Artificial Intelligence"
+        self.role = "Data Science & Artificial Intelligence Student"
         self.university = "Universidade Federal da Paraíba (UFPB)"
-        self.expected_graduation = 2027.1
-        self.location = "João Pessoa, PB"
-        self.internship = {
-            'position': "BI & Data Engineering Intern",
-            'company': "Energisa",
-            'description': (
-                "Support in data integration processes using Oracle Data Integrator (ODI), including ETL development "
-                "and maintenance. Perform data validation in SQL Server and Oracle, create Power BI dashboards, "
-                "automate reporting routines, and collaborate on KPI definition and data governance documentation."
-            )
+        self.expected_graduation = "2027"
+        self.location = "João Pessoa, PB — Brazil"
+
+        self.current_position = {
+            "title": "BI & Data Engineering Intern",
+            "company": "Energisa",
+            "focus": [
+                "ETL pipelines with Oracle Data Integrator (ODI)",
+                "Data validation using SQL Server and Oracle",
+                "Power BI dashboards and KPI automation",
+                "Support for data governance and documentation"
+            ]
         }
-        self.bio = (
-            "Passionate about technology, I strive to develop innovative solutions focused on AI and Data Science. "
-            "I bring both academic and self-taught experience in data analysis, machine learning, and data visualization. "
-            "Driven by results, I aim to create solutions that generate positive and measurable impact."
+
+        self.profile = (
+            "I am a data-driven and research-oriented student passionate about "
+            "Artificial Intelligence, Data Science, and technology with social impact. "
+            "My work bridges data engineering, machine learning, analytics, and front-end "
+            "development, combining technical rigor with clean, intuitive design."
         )
 
-class CurrentlyStudying:
-    def __init__(self):
-        self.skills = {
-            'technical': ['Python', 'SQL', 'Power BI', 'ODI (Oracle Data Integrator)', 'Machine Learning'],
-            'languages': ['Portuguese (native)', 'English (advanced)', 'French (intermediate)'],
-        }
-        self.focus = "Advanced machine learning, data engineering, and analysis of large-scale datasets."
-        self.interests = (
-            "Emerging technologies, Explainable AI, Predictive Analytics, Data Architecture, "
-            "and scalable Big Data solutions."
+        self.objectives = (
+            "To design scalable data systems, develop intelligent models, "
+            "and build digital solutions that support decision-making, "
+            "scientific research, and real-world impact."
         )
+
+class FocusAreas:
+    def __init__(self):
+        self.data = [
+            "Data Engineering & ETL Architectures",
+            "SQL Optimization & Analytical Modeling",
+            "Power BI & Strategic Dashboards",
+            "Machine Learning & Deep Learning"
+        ]
+
+        self.ai = [
+            "Computer Vision",
+            "Natural Language Processing (NLP)",
+            "Model Evaluation & Feature Analysis",
+            "Multimodal AI Systems"
+        ]
+
+        self.dev = [
+            "Front-end with React, TypeScript, Tailwind",
+            "Portfolio & academic platforms",
+            "Clean UI/UX for data-driven systems"
+        ]
+
+        self.languages = {
+            "Portuguese": "Native",
+            "English": "Advanced",
+            "French": "Basic"
+        }
+
 ```
 
 > [!IMPORTANT]
